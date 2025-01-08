@@ -12,9 +12,9 @@ The code will be released soon.
 
 # Citation
 If you use this work, please cite:
-
-Singh, R., Khan, A., Seneviratne, L. and Hussain, I., 2024. Deep learning approach for detecting tomato flowers and buds in greenhouses on 3P2R gantry robot. Scientific Reports, 14(1), p.20552.
-
+```
+R Singh et al. 2024. Deep learning approach for detecting tomato flowers and buds in greenhouses on 3P2R gantry robot. Scientific Reports, 14(1), p.20552.
+```
 BibTeX:
 ```
 @article{singh2024deep,
