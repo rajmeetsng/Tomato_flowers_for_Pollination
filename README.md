@@ -6,7 +6,9 @@ Detection dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 
 The code will be released soon.
 
-Results
+# Results
+
+<img src="docs/_static/images/pysal_nav_logo_2line.svg" width="300" />
 
 
 # Citation
