@@ -9,9 +9,9 @@ The code will be released soon.
 # Results
 
 <p align="center">
-<img src="E:\Abu_Dabi_2023\Silal visit 27-03-24\data\tomato flower\images\Tomato_flowers_for_Pollination\Results\1.png" width="300" />
-<img src="E:\Abu_Dabi_2023\Silal visit 27-03-24\data\tomato flower\images\opencv\Scripts\2.jpg" width="300" />
-<img src="E:\Abu_Dabi_2023\Silal visit 27-03-24\data\tomato flower\images\opencv\Scripts\3.jpg" width="300" />
+<img src="Result/1.png" width="300" />
+<img src="Result/2.jpg" width="300" />
+<img src="Result/3.jpg" width="300" />
 </p>
 
 # Citation
