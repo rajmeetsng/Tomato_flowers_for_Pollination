@@ -8,7 +8,7 @@ The code will be released soon.
 
 # Results
 
-[<img align="middle" src="Results/1.png" width="150">]
+<img align="middle" src="Results/1.png" width="300">
 
 # Citation
 If you use this work, please cite:
