@@ -49,6 +49,13 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 ---
 
+# Download Yolov8m weight
+Download the weight and save in the Tomato_flowers_for_Pollination folder 
+```bash
+https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt
+```
+
+---
 # Usage
 
 ## Dataset Preparation
