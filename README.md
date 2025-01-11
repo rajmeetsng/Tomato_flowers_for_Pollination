@@ -74,27 +74,14 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
    names: ["flower", "bud"]
    ```
 
-## Training
+# Run Tomato flower detection
 
-Train the YOLOv8 model on your dataset:
+
 ```bash
-python train.py --data config.yaml --epochs 100 --batch-size 16 --weights yolov8m.pt
+cd Tomato_flowers_for_Pollination
+python tomato_flower_detection.py
+
 ```
-
-## Inference
-
-Run inference on an image or directory of images:
-```bash
-python detect.py --weights best.pt --source images/   (Add path for images directory) 
-```
-
-## Evaluation
-
-Evaluate the trained model on the validation dataset:
-```bash
-python val.py --data config.yaml --weights best.pt
-```
-
 ---
 
 # Results
