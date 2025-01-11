@@ -83,7 +83,7 @@ python train.py --data config.yaml --epochs 100 --batch-size 16 --weights yolov8
 
 Run inference on an image or directory of images:
 ```bash
-python detect.py --weights best.pt --source images/
+python detect.py --weights best.pt --source images/   (Add path for images directory) 
 ```
 
 ## Evaluation
