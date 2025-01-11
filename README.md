@@ -4,15 +4,6 @@ This repository contains the Tomato flower dataset from Greenhouse, which is use
 
 Detection dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 
-# Tomato Flowers and Buds Detection Algorithm
-
-This repository demonstrates object detection using the YOLOv8 model, a state-of-the-art deep learning architecture for detecting objects in images and videos. The implementation provides a streamlined pipeline for training, evaluation, and deployment.
-
-# Features
-
-- Efficient and accurate object detection using YOLOv8.
-- Real-time inference on video streams or image directories.
-
 # Table of Contents
 
 - [Installation](#installation)
