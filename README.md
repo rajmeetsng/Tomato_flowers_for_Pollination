@@ -1,6 +1,6 @@
 # Tomato_flowers and bud_detection_for_Pollination_Task
 
-This repository contains the Tomato flower dataset from Greenhouse, which is used for pollination task.
+This repository contains the Tomato flower and bud detection model for Greenhouse environement, which is used for pollination task.
 
 Detection dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 
