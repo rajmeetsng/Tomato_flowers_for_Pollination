@@ -7,11 +7,9 @@ Dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 # Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Dataset Preparation](#dataset-preparation)
-  - [Training](#training)
-  - [Inference](#inference)
-  - [Evaluation](#evaluation)
+- [Download yolov8m weight](#download yolov8m weight)
+- [Dataset Preparation](#dataset preparation)
+- [Run Tomato flower detection](#run tomato flower detection)
 - [Results](#results)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
@@ -47,9 +45,7 @@ https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt
 ```
 
 ---
-# Usage
-
-## Dataset Preparation
+# Dataset Preparation
 
 1. Organize your dataset in the following structure:
    ```
