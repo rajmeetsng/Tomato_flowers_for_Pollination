@@ -31,8 +31,8 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/yolov8-object-detection.git
-   cd yolov8-object-detection
+   get clone https://github.com/rajmeetsng/Tomato_flowers_for_Pollination.git
+   cd Tomato_flowers_for_Pollination
    ```
 
 2. Install dependencies:
