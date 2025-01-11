@@ -69,7 +69,7 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
    train: dataset/train/images
    val: dataset/val/images
    nc: 2
-   names: ["flowers", "bud"]
+   names: ["flower", "bud"]
    ```
 
 ## Training
