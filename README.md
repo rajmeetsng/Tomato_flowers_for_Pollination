@@ -58,7 +58,7 @@ https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt
    │   ├── labels/
    ```
 
-2. Ensure the annotations are in YOLO format using Roboflow (https://app.roboflow.com/raj-brtgt/flower-fnshn/2594)
+2. Ensure the annotations are in YOLO format [use Roboflow (https://app.roboflow.com/raj-brtgt/flower-fnshn/2594)]
 
 3. Update the `config.yaml` file with dataset paths:
    ```yaml
