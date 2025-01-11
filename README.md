@@ -29,20 +29,22 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 # Installation
 
-1. Clone this repository:
+1. Create virtual environment
+   ```bash
+   virtualenv env_name --python=python3.10
+   ```
+2. Activate environment
+   ```bash
+   env_name\Scripts\activate
+   ```
+3. Clone this repository:
    ```bash
    get clone https://github.com/rajmeetsng/Tomato_flowers_for_Pollination.git
    cd Tomato_flowers_for_Pollination
    ```
-
-2. Install dependencies:
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
-
-3. Verify installation:
-   ```bash
-   python check_env.py
    ```
 
 ---
