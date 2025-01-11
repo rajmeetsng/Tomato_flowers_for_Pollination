@@ -1,4 +1,4 @@
-# Tomato_flowers_for_Pollination
+# Tomato_flowers and bud_detection_for_Pollination_Task
 
 This repository contains the Tomato flower dataset from Greenhouse, which is used for pollination task.
 
