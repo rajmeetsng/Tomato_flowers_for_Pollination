@@ -5,7 +5,7 @@ from ultralytics import YOLO
 
 # Paths and directories
 MODEL_PATH = "yolov8m.pt"  # Path to pre-trained weights
-DATASET_CONFIG = "data/tomato_flowers.yaml"  # Path to dataset configuration
+DATASET_CONFIG = "config.yaml"  # Path to dataset configuration
 TRAIN_IMAGES_DIR = "dataset/train/images"  # Directory for training images
 VAL_IMAGES_DIR = "dataset/val/images"  # Directory for validation images
 INPUT_DIR = "images/input"  # Directory for input images for inference
@@ -16,7 +16,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 def train_model():
     print("Starting training...")
     model = YOLO(MODEL_PATH)
-    model.train(data=DATASET_CONFIG, epochs=50, batch=16, imgsz=640)
+    model.train(data=DATASET_CONFIG, epochs=100, batch=16, imgsz=640)
     print("Training completed.")
     return model
 
@@ -25,7 +25,7 @@ def detect_tomato_flowers(model, image_path, output_path):
     # Load the image
     image = cv2.imread(image_path)
     
-    # Run YOLOv8 inference
+    # Run inference
     results = model(image)
 
     # Draw detections on the image
