@@ -8,12 +8,12 @@ Detection dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 
 This repository demonstrates object detection using the YOLOv8 model, a state-of-the-art deep learning architecture for detecting objects in images and videos. The implementation provides a streamlined pipeline for training, evaluation, and deployment.
 
-## Features
+# Features
 
 - Efficient and accurate object detection using YOLOv8.
 - Real-time inference on video streams or image directories.
 
-## Table of Contents
+# Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,7 +27,7 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 ---
 
-## Installation
+# Installation
 
 1. Clone this repository:
    ```bash
@@ -47,9 +47,9 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 ---
 
-## Usage
+# Usage
 
-### Dataset Preparation
+## Dataset Preparation
 
 1. Organize your dataset in the following structure:
    ```
@@ -72,21 +72,21 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
    names: ["flowers", "bud"]
    ```
 
-### Training
+## Training
 
 Train the YOLOv8 model on your dataset:
 ```bash
 python train.py --data config.yaml --epochs 100 --batch-size 16 --weights yolov8m.pt
 ```
 
-### Inference
+## Inference
 
 Run inference on an image or directory of images:
 ```bash
 python detect.py --weights best.pt --source images/
 ```
 
-### Evaluation
+## Evaluation
 
 Evaluate the trained model on the validation dataset:
 ```bash
@@ -95,7 +95,7 @@ python val.py --data config.yaml --weights best.pt
 
 ---
 
-## Results
+# Results
 
 <img align="middle" src="Results/1.png" width="300"> <img align="middle" src="Results/2.jpg" width="200"> <img align="middle" src="Results/4.jpg" width="200">
 
@@ -122,7 +122,7 @@ BibTeX:
 ```
 ---
 
-## Acknowledgements
+# Acknowledgements
 
 - YOLOv8: [Ultralytics](https://github.com/ultralytics/yolov8)
 
