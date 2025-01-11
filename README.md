@@ -23,8 +23,8 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
   - [Evaluation](#evaluation)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Citation](#citation)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
