@@ -7,9 +7,9 @@ Dataset link: https://app.roboflow.com/raj-brtgt/flower-fnshn/2594
 # Table of Contents
 
 - [Installation](#installation)
-- [Download yolov8m weight](#download yolov8m weight)
-- [Dataset Preparation](#dataset preparation)
-- [Run Tomato flower detection](#run tomato flower detection)
+- [Download yolov8m weight](#downloadyolov8mweight)
+- [Dataset Preparation](#datasetpreparation)
+- [Run Tomato flower detection](#runtomatoflowerdetection)
 - [Results](#results)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
