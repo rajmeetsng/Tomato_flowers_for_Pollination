@@ -62,7 +62,7 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
    │   ├── labels/
    ```
 
-2. Ensure the annotations are in YOLO format.
+2. Ensure the annotations are in YOLO format using Roboflow (https://app.roboflow.com/raj-brtgt/flower-fnshn/2594)
 
 3. Update the `config.yaml` file with dataset paths:
    ```yaml
