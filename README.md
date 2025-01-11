@@ -21,7 +21,6 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
   - [Training](#training)
   - [Inference](#inference)
   - [Evaluation](#evaluation)
-- [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
