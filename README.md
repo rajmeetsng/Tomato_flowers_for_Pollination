@@ -79,7 +79,7 @@ This repository demonstrates object detection using the YOLOv8 model, a state-of
 
 ```bash
 cd Tomato_flowers_for_Pollination
-python tomato_flower_detection.py
+python flower_bud_detection.py
 
 ```
 ---
